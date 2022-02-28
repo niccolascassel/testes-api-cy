@@ -14,7 +14,7 @@
 
 Via terminal, rode os seguintes comandos:
 ```  
-git clone https://github.com/EBAC-QE/testes-api-cy.git
+git clone https://github.com/niccolascassel/testes-api-cy.git
 ```
 ```
 cd testes-api-cy
